@@ -1,4 +1,4 @@
-# Book Review Service
+# Book Review Backend
 
 A RESTful API service for managing books and their reviews, built with TypeScript, Express.js, TypeORM, and Redis caching.
 

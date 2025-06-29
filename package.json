@@ -1,7 +1,7 @@
 {
-  "name": "book-review-service",
+  "name": "book-review-backend",
   "version": "1.0.0",
-  "description": "Book Review Service - Backend Technical Assessment",
+  "description": "Book Review Backend Service - RESTful API for managing books and reviews",
   "main": "dist/index.js",
   "private": true,
   "scripts": {
